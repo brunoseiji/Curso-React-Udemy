@@ -52,3 +52,46 @@
 [ ]Login do usuário Auth  
 [ ]Firebase Auth + Database  
 [ ]Firebase Auth + Database pt2  
+
+
+### `Seção 9: Projeto Blog`
+[ ]Criando protótipo  
+[ ]Criando protótipo pt2  
+[ ]Mão na massa começando projeto  
+[ ]Introduzindo firebase no projeto  
+[ ]Criando a Header e home  
+[ ]Construindo sistema de login  
+[ ]Construindo sistema de login pt2  
+[ ]Criando sistema de cadastro  
+[ ]Criando Painel Administrativo  
+[ ]Criando Painel Administrativo pt2  
+[ ]Criando página novo post  
+[ ]Criando página novo post pt2  
+[ ]Upload imagem do post  
+[ ]Upload imagem do post pt2  
+
+
+### `Seção 10: React Hooks`
+[ ]Por que hooks?  
+[ ]API useState  
+[ ]API useState pt2  
+[ ]useEffect  
+[ ]useMemo  
+[ ]useCallback  
+
+
+### `Seção 11: Projeto repos`
+[ ]Começando projeto  
+[ ]Criando estilos  
+[ ]Estilizando página main  
+[ ]Buscando repositórios  
+[ ]Buscando repositórios pt2  
+[ ]Listando repositórios  
+[ ]Salvando repositórios  
+[ ]Detalhes do repositórios  
+[ ]Carregando detalhes  
+[ ]Exibindo detalhes  
+[ ]Exibindo issues  
+[ ]Criando paginação  
+[ ]Criando filtros  
+[ ]Fala Dev  
