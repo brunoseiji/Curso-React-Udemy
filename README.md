@@ -45,7 +45,7 @@
 - [x] Entendendo props e component pt2  
 - [x] Aplicando Class component  
 - [x] Trabalhando com states  
-- [ ] Ciclo de vida dos componentes  
+- [x] Ciclo de vida dos componentes  
 
 
 ### `Seção 5: Aprendendo mais`
