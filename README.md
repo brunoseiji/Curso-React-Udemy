@@ -1,6 +1,4 @@
-### `Curso React JS do Zero ao Avançado`
-
-Instalação do projeto, entendimento dos arquivos
+# `Curso React JS do Zero ao Avançado`
 
 ### `Seção 4: Mão na massa React`
 [x]O que é React JS  
