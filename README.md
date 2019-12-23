@@ -4,6 +4,7 @@
 
 ### `Seção 1: Início da jornada`
 - [x]Introdução  
+- [ ] Teste
 
 
 ### `Seção 2: JavaScript - Primeiros passos`
