@@ -42,7 +42,7 @@
 - [x] Plugin para Visual Studio Code  
 - [x] Plugins essenciais para Visual Studio Code  
 - [x] Entendendo props e component  
-- [ ] Entendendo props e component pt2  
+- [x] Entendendo props e component pt2  
 - [ ] Aplicando Class component  
 - [ ] Trabalhando com states  
 - [ ] Reforçando components  
