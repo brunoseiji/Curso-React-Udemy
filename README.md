@@ -3,8 +3,7 @@
 
 
 ### `Seção 1: Início da jornada`
-- [x]Introdução  
-- [ ] Teste
+- [x]Introdução
 
 
 ### `Seção 2: JavaScript - Primeiros passos`
