@@ -49,7 +49,7 @@
 
 
 ### `Seção 5: Aprendendo mais`
-- [ ] Eventos  
+- [x] Eventos  
 - [ ] Renderização condicional  
 - [ ] Trabalhando com Listas  
 - [ ] Manipulando formulários  
