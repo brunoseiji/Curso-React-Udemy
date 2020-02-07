@@ -52,7 +52,7 @@
 - [x] Eventos  
 - [x] Renderização condicional  
 - [x] Trabalhando com Listas  
-- [ ] Manipulando formulários  
+- [x] Manipulando formulários  
 - [ ] Praticando formulário  
 - [ ] Manipulando formulários pt2  
 - [ ] Projeto Biscoito da sorte  
