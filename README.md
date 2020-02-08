@@ -53,7 +53,7 @@
 - [x] Renderização condicional  
 - [x] Trabalhando com Listas  
 - [x] Manipulando formulários  
-- [ ] Praticando formulário  
+- [x] Praticando formulário  
 - [ ] Manipulando formulários pt2  
 - [ ] Projeto Biscoito da sorte  
 - [ ] Projeto Cronômetro  
