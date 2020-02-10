@@ -55,7 +55,7 @@
 - [x] Manipulando formulários  
 - [x] Praticando formulário  
 - [x] Manipulando formulários pt2  
-- [ ] Projeto Biscoito da sorte  
+- [x] Projeto Biscoito da sorte  
 - [ ] Projeto Cronômetro  
 
 
