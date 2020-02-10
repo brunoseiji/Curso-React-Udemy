@@ -56,7 +56,7 @@
 - [x] Praticando formulário  
 - [x] Manipulando formulários pt2  
 - [x] Projeto Biscoito da sorte  
-- [ ] Projeto Cronômetro  
+- [x] Projeto Cronômetro  
 
 
 ### `Seção 6: React Avançado`
