@@ -60,7 +60,7 @@
 
 
 ### `Seção 6: React Avançado`
-- [ ] Requisições HTTP  
+- [x] Requisições HTTP  
 - [ ] Projeto To-do-List  
 - [ ] Trabalhando com Rotas  
 - [ ] Melhorando as Rotas  
