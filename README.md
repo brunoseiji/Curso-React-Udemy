@@ -61,8 +61,8 @@
 
 ### `Seção 6: React Avançado`
 - [x] Requisições HTTP  
-- [ ] Projeto To-do-List  
-- [ ] Trabalhando com Rotas  
+- [x] Projeto To-do-List  
+- [x] Trabalhando com Rotas  
 - [ ] Melhorando as Rotas  
 
 ### `Seção 7: Projeto Filmes`
