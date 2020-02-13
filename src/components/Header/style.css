@@ -1,0 +1,25 @@
+.container-header {
+    padding: 0 25px;
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+}
+
+h1 {
+    color: #ff8364;
+    text-transform: uppercase;
+}
+
+.nav-item {
+    list-style: none;
+    color: #000;
+    margin: 0 20px;
+}
+
+.nav-item a {
+    color: #5f6caf;
+    text-decoration: none;
+    font-weight: bold;
+}

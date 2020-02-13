@@ -63,7 +63,7 @@
 - [x] Requisições HTTP  
 - [x] Projeto To-do-List  
 - [x] Trabalhando com Rotas  
-- [ ] Melhorando as Rotas  
+- [x] Melhorando as Rotas  
 
 ### `Seção 7: Projeto Filmes`
 - [ ] Projeto Filmes pt1  
