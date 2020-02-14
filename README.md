@@ -66,7 +66,7 @@
 - [x] Melhorando as Rotas  
 
 ### `Seção 7: Projeto Filmes`
-- [ ] Projeto Filmes pt1  
+- [x] Projeto Filmes pt1  
 - [ ] Projeto Filmes pt2  
 - [ ] Projeto Filmes pt3  
 - [ ] Fluxos de Rotas com autenticação  
