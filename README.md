@@ -68,7 +68,7 @@
 ### `Seção 7: Projeto Filmes`
 - [x] Projeto Filmes pt1  
 - [x] Projeto Filmes pt2  
-- [ ] Projeto Filmes pt3  
+- [x] Projeto Filmes pt3  
 - [ ] Fluxos de Rotas com autenticação  
 - [ ] Aplicando Styled Components  
 - [ ] Criando uma SPA  
