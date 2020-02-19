@@ -70,7 +70,7 @@
 - [x] Projeto Filmes pt2  
 - [x] Projeto Filmes pt3  
 - [x] Fluxos de Rotas com autenticação  
-- [ ] Aplicando Styled Components  
+- [x] Aplicando Styled Components  
 - [ ] Criando uma SPA  
 
 
