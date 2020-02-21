@@ -71,7 +71,7 @@
 - [x] Projeto Filmes pt3  
 - [x] Fluxos de Rotas com autenticação  
 - [x] Aplicando Styled Components  
-- [ ] Criando uma SPA  
+- [x] Criando uma SPA  
 
 
 ### `Seção 8: Firebase`
