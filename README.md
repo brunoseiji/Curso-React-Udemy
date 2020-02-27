@@ -82,7 +82,7 @@
 - [x] Aplicando Insert Update e Delete  
 - [x] Trabalhando com Listas  
 - [x] Cadastrando usuário Auth  
-- [ ] Login do usuário Auth  
+- [x] Login do usuário Auth  
 - [ ] Firebase Auth + Database  
 - [ ] Firebase Auth + Database pt2  
 
