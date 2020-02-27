@@ -79,7 +79,7 @@
 - [x] Entendendo Database  
 - [x] Instalando e configurando  
 - [x] Usando a nossa Database  
-- [ ] Aplicando Insert Update e Delete  
+- [x] Aplicando Insert Update e Delete  
 - [ ] Trabalhando com Listas  
 - [ ] Cadastrando usuário Auth  
 - [ ] Login do usuário Auth  
