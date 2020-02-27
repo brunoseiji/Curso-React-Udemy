@@ -84,7 +84,7 @@
 - [x] Cadastrando usuário Auth  
 - [x] Login do usuário Auth  
 - [x] Firebase Auth + Database  
-- [ ] Firebase Auth + Database pt2  
+- [x] Firebase Auth + Database pt2  
 
 
 ### `Seção 9: Projeto Blog`
