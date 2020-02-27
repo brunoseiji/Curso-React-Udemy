@@ -75,7 +75,7 @@
 
 
 ### `Seção 8: Firebase`
-- [ ] Introdução ao Firebase  
+- [x] Introdução ao Firebase  
 - [ ] Entendendo Database  
 - [ ] Instalando e configurando  
 - [ ] Usando a nossa Database  
