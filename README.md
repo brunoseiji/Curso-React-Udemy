@@ -83,7 +83,7 @@
 - [x] Trabalhando com Listas  
 - [x] Cadastrando usuário Auth  
 - [x] Login do usuário Auth  
-- [ ] Firebase Auth + Database  
+- [x] Firebase Auth + Database  
 - [ ] Firebase Auth + Database pt2  
 
 
