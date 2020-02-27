@@ -76,8 +76,8 @@
 
 ### `Seção 8: Firebase`
 - [x] Introdução ao Firebase  
-- [ ] Entendendo Database  
-- [ ] Instalando e configurando  
+- [x] Entendendo Database  
+- [x] Instalando e configurando  
 - [ ] Usando a nossa Database  
 - [ ] Aplicando Insert Update e Delete  
 - [ ] Trabalhando com Listas  
