@@ -80,8 +80,8 @@
 - [x] Instalando e configurando  
 - [x] Usando a nossa Database  
 - [x] Aplicando Insert Update e Delete  
-- [ ] Trabalhando com Listas  
-- [ ] Cadastrando usuário Auth  
+- [x] Trabalhando com Listas  
+- [x] Cadastrando usuário Auth  
 - [ ] Login do usuário Auth  
 - [ ] Firebase Auth + Database  
 - [ ] Firebase Auth + Database pt2  
