@@ -90,8 +90,8 @@
 ### `Seção 9: Projeto Blog`
 - [x] Criando protótipo  
 - [x] Criando protótipo pt2 - https://www.figma.com/file/zZ41DAGvcPMfUFDdn3L5iM/Curso-React-Blog?node-id=1%3A2  
-- [ ] Mão na massa começando projeto  
-- [ ] Introduzindo firebase no projeto  
+- [x] Mão na massa começando projeto  
+- [x] Introduzindo firebase no projeto  
 - [ ] Criando a Header e home  
 - [ ] Construindo sistema de login  
 - [ ] Construindo sistema de login pt2  
