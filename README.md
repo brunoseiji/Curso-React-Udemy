@@ -92,8 +92,8 @@
 - [x] Criando protótipo pt2 - https://www.figma.com/file/zZ41DAGvcPMfUFDdn3L5iM/Curso-React-Blog?node-id=1%3A2  
 - [x] Mão na massa começando projeto  
 - [x] Introduzindo firebase no projeto  
-- [ ] Criando a Header e home  
-- [ ] Construindo sistema de login  
+- [x] Criando a Header e home  
+- [x] Construindo sistema de login  
 - [ ] Construindo sistema de login pt2  
 - [ ] Criando sistema de cadastro  
 - [ ] Criando Painel Administrativo  
