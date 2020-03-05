@@ -94,12 +94,12 @@
 - [x] Introduzindo firebase no projeto  
 - [x] Criando a Header e home  
 - [x] Construindo sistema de login  
-- [ ] Construindo sistema de login pt2  
-- [ ] Criando sistema de cadastro  
-- [ ] Criando Painel Administrativo  
-- [ ] Criando Painel Administrativo pt2  
-- [ ] Criando página novo post  
-- [ ] Criando página novo post pt2  
+- [x] Construindo sistema de login pt2  
+- [x] Criando sistema de cadastro  
+- [x] Criando Painel Administrativo  
+- [x] Criando Painel Administrativo pt2  
+- [x] Criando página novo post  
+- [x] Criando página novo post pt2  
 - [ ] Upload imagem do post  
 - [ ] Upload imagem do post pt2  
 
