@@ -100,8 +100,8 @@
 - [x] Criando Painel Administrativo pt2  
 - [x] Criando página novo post  
 - [x] Criando página novo post pt2  
-- [ ] Upload imagem do post  
-- [ ] Upload imagem do post pt2  
+- [x] Upload imagem do post  
+- [x] Upload imagem do post pt2  
 
 
 ### `Seção 10: React Hooks`
