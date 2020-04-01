@@ -128,3 +128,27 @@
 - [ ] Criando paginação  
 - [ ] Criando filtros  
 - [ ] Fala Dev  
+
+
+### `Seção 12: Redux`
+- [ ] Entendendo Redux  
+- [ ] Relembrando conceitos  
+- [ ] Começando projeto  
+- [ ] Estilizando  
+- [ ] Configurando API  
+- [ ] Estilizando Home  
+- [ ] Estilizando reservas  
+- [ ] Configurando Redux  
+- [ ] Solicitando uma reserva  
+- [ ] Adicionando reserva  
+- [ ] Adicionando quantidade  
+- [ ] Removendo reservas  
+- [ ] Refatorando as actions  
+- [ ] Mudando a quantidade  
+- [ ] Configurando Redux Saga  
+- [ ] Refatorando com Saga  
+- [ ] Consultando estoque  
+- [ ] Consultando estoque pt2  
+- [ ] Redux com rotas  
+- [ ] Finalizando Redux  
+- [ ] Fala Dev
