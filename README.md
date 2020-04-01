@@ -105,12 +105,12 @@
 
 
 ### `Seção 10: React Hooks`
-- [ ] Por que hooks?  
-- [ ] API useState  
-- [ ] API useState pt2  
-- [ ] useEffect  
-- [ ] useMemo  
-- [ ] useCallback  
+- [x] Por que hooks?  
+- [x] API useState  
+- [x] API useState pt2  
+- [x] useEffect  
+- [x] useMemo  
+- [x] useCallback  
 
 
 ### `Seção 11: Projeto repos`
