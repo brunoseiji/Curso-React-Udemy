@@ -22,16 +22,16 @@
 
 
 ### `Seção 3: Evoluindo no JavaScript`
-- [ ] Temporização  
-- [ ] WebStorage Introdução  
-- [ ] Aplicando WebStorage  
-- [ ] Diferença entre var, let e const  
-- [ ] Uso de variável em strings  
-- [ ] Usar desconstrução em objetos e arrays  
-- [ ] Spread operator  
-- [ ] Rest operator  
-- [ ] Operação em Array  
-- [ ] Trabalhando com funções anônimas  
+- [x] Temporização  
+- [x] WebStorage Introdução  
+- [x] Aplicando WebStorage  
+- [x] Diferença entre var, let e const  
+- [x] Uso de variável em strings  
+- [x] Usar desconstrução em objetos e arrays  
+- [x] Spread operator  
+- [x] Rest operator  
+- [x] Operação em Array  
+- [x] Trabalhando com funções anônimas  
 
 
 ### `Seção 4: Mão na massa React`
