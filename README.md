@@ -11,14 +11,14 @@
 - [x] Trabalhando com variáveis  
 - [x] Trabalhando com viariáveis pt2  
 - [x] Comentários  
-- [ ] Aprendendo Comandos de Entrada / Saída  
-- [ ] Refresh e Redirect  
-- [ ] Modificando HTML  
-- [ ] Criando minhas funções  
-- [ ] Arrays  
-- [ ] Arrays pt2  
-- [ ] Trabalhando com Loops  
-- [ ] Switch  
+- [x] Aprendendo Comandos de Entrada / Saída  
+- [x] Refresh e Redirect  
+- [x] Modificando HTML  
+- [x] Criando minhas funções  
+- [x] Arrays  
+- [x] Arrays pt2  
+- [x] Trabalhando com Loops  
+- [x] Switch  
 
 
 ### `Seção 3: Evoluindo no JavaScript`
